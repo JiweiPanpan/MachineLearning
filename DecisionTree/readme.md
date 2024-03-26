@@ -28,7 +28,7 @@
 		    print clf_.predict(X)   #['yes' 'yes' 'no' 'no' 'no']
 
 	**ID3：**
-
+1
 	![](http://i.imgur.com/kqA3eHT.png)
 
 	**C4.5：**
